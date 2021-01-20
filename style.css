@@ -1,0 +1,23 @@
+.fixed {
+  position: fixed;
+  top: 0;
+  width: 300px;
+  border: 3px solid red;
+}
+
+.place {
+  position: absolute;
+  top: 2000px;
+  left: 300px;
+  width: 300px;
+}
+
+.left {
+  position: absolute;
+  left: 450px;
+}
+
+.right {
+  position: absolute;
+  right: 450px;
+}
